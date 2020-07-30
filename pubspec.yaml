@@ -33,7 +33,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: any
-  flutter_pdf_viewer: any
+  flutter_pdf_viewer: 0.4.1
 
 flutter_icons:
   android: true
